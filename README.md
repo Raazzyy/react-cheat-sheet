@@ -1,4 +1,4 @@
-# React Basics V3 — полная версия
+# React Basics — полная версия
 
 Запуск: npm install && npm run dev
 
